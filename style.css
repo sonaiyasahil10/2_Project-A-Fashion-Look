@@ -108,7 +108,7 @@ html,body{
 #arrow{
     position: absolute;
     top: 50%;
-    left: 42%;
+    left: 43%;
     padding: 6px;
     transform: translate(-50%, -50%);
     border-radius: 50%;
