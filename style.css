@@ -109,11 +109,12 @@ html,body{
     position: absolute;
     top: 50%;
     left: 43%;
-    padding: 6px;
+    padding: 3px 6px;
     transform: translate(-50%, -50%);
     border-radius: 50%;
     background-color: orangered;
-    font-size: 2.5vw;
+    /* font-size: 2.5vw; */
+    font-size: 40px;
     color: white;
 }
 
